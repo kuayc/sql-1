@@ -1,4 +1,4 @@
---Table-orders
+--Table= orders
 --1
 CREATE TABLE orders
 (
@@ -17,7 +17,7 @@ VALUES
     (1, 'Product 2', 5, 1),
     (2, 'Product 3', 25, 10),
     (3, 'Product 4', 1, 100),
-    (4, 'Product 5', 10, 40);
+    (4, 'Product 5', 10, 50);
 
 --3
 SELECT *
