@@ -1,5 +1,6 @@
 --Table= artist
 --1
+
 INSERT INTO artist
     (name)
 VALUES
